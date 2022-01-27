@@ -27,6 +27,11 @@ header {
   border-bottom: 5px solid var(--primary);
 }
 
+header h1 {
+  color: var(--primary);
+  font-size: 50px;
+}
+
 header p {
   color: var(--tertiary);
   margin: 5px 0 20px;
